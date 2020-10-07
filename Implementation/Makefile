@@ -14,7 +14,7 @@ test/test_calculator_operations.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
-# All include folders with header files
+# All include folders with header file xfhgh
 INC	= -Iinc
 
 PROJECT_OUTPUT = $(BUILD)/$(PROJECT_NAME).out
